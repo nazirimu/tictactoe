@@ -13,7 +13,7 @@ h2 {
 .btncontainer {
   height: 200px;
   position: absolute;
-  top: 115%;
+  top: 105%;
   left: 50%;
 }
 
@@ -50,8 +50,7 @@ table {
   position: absolute;
   left: 50%;
   margin-left: -155px;
-  top: 50%;
-  margin-top: -155px;
+  margin-top: 155px;
 }
 
 table tr:first-child td {
