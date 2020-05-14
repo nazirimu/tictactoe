@@ -5,15 +5,17 @@ h1 {
 }
 
 h2 {
-  position: absolute;
-  left: 48%;
-  margin-left: -155px;
+  /* position: absolute; */
+  /*left: 48%;*/
+  margin-left: auto;
+  margin-right: auto;
+  width: 23rem;
 }
 
 .btncontainer {
   height: 200px;
   position: absolute;
-  top: 105%;
+  top: 160%;
   left: 50%;
 }
 
